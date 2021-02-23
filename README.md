@@ -17,3 +17,7 @@ Calcul de NEW_DATA : en fonction des cas suivants
         - Si aucune des conditions précédentes n'est validée, NEW_DATA vaut 'Rien à afficher'   
 
         Si pour le calcul de NEW_DATA, plusieurs règles sont vraies, alors seule la règle la plus en haut de la liste s'applique.
+        
+# Execution
+
+To launch the execution: python print_lines.py --log-file data.log 
