@@ -24,4 +24,4 @@ To launch the execution: python main.py --log_file [log_file]
 
 # Test
 
-To run the test: pytest test_get_new_data.py
+To run the test: pytest

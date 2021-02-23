@@ -29,6 +29,4 @@ def get_new_data(line_number: int, input_line: str) -> str:
     else:
         new_data = "Rien à afficher"
 
-    new_data = new_data.replace('\n', '').replace('\r', '')
-
-    return new_data
+    return new_data.replace('\n', '').replace('\r', '')

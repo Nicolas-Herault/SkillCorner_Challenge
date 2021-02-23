@@ -3,7 +3,7 @@
 """
 import pytest
 
-from print_lines.utils.get_new_data import get_new_data
+from .get_new_data import get_new_data
 
 
 DATA_FILE = "./print_lines/data/data.log"
