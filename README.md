@@ -20,5 +20,8 @@ Calcul de NEW_DATA : en fonction des cas suivants
         
 # Execution
 
-To launch the execution:
-        - python print_lines.py --log-file data.log 
+To launch the execution: python main.py --log_file [log_file]
+
+# Test
+
+To run the test: pytest test_get_new_data.py
